@@ -8,7 +8,7 @@
 You can create a free account on the [AWS website](https://portal.aws.amazon.com/billing/signup?WIAWS=tile&tile=hero#/start/email): fill in your user email and name and simply follow the instructions.
 Make sure to fill in an available and valid email address, as a verification code will be sent to the latter.
 
-For this tutorial and to allow everyone to efficiently follow the tutorial, we give you temporary access to [Stella's account](https://581028953800.signin.aws.amazon.com/console) (because you need a payment method to create an account). The user name is `ScientificDays22`, and the password is `Tutorials22`
+<!--- For this tutorial and to allow everyone to efficiently follow the tutorial, we give you temporary access to [Stella's account](https://581028953800.signin.aws.amazon.com/console) (because you need a payment method to create an account). The user name is `ScientificDays22`, and the password is `Tutorials22` --->
 
 
 ### Launching an Instance
