@@ -15,7 +15,7 @@ On the home page, click on the "*TRY IT FOR FREE*" button to create a free accou
 <br> <br>
 
 You will be directed to the sign up page where you will fill your name, email address, and password.
-<img src="images/ubidesk-signup-page.png" alt="drawing" width="100%"/>
+<img src="images/ubidesk-signup-page.png" alt="drawing" width="80%"/>
 
 You will then receive an email at the address you have entered: clik on the link in that email to verify your address.
 Once your email address is verified, you can then login and access your workspace.
