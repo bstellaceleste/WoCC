@@ -1,37 +1,105 @@
-# SCIENCE EVENTS CAMEROON's Tutorial <br> GitAws: GitHub+AWS
-#### *December 20 - Polytechnic School of Yaounde, Stella Bitchebe*
+# WoCC'23 Tutorial <br> Virt+GitHub
+##### December 13 - Polytechnic School of Yaounde, Cameroon
+*Stella Bitchebe*
 
-# Amazon Web Service (AWS)
-[AWS](https://aws.amazon.com/fr/what-is-aws/) is a cloud platform among the most comprehensive and broadly used ones. AWS offers many data center services and allows application providers to securely host their applications.
+# ubiDesktop
 
-### Creating an Account 
-You can create a free account on the [AWS website](https://portal.aws.amazon.com/billing/signup?WIAWS=tile&tile=hero#/start/email): fill in your user email and name and simply follow the instructions.
-Make sure to fill in an available and valid email address, as a verification code will be sent to the latter.
+[ubiDesktop](https://www.ubidesktop.com/) is a cloud VM provider that offers a 24 hour free tier service without the need for a credit card.
+After the first 24 hours, you will need to fill out your billing informations to continue using the cloud service.
 
-<!--- For this tutorial and to allow everyone to efficiently follow the tutorial, we give you temporary access to [Stella's account](https://581028953800.signin.aws.amazon.com/console) (because you need a payment method to create an account). The user name is `ScientificDays22`, and the password is `Tutorials22` --->
+### Creating an Account
 
+On the home page, click on the "*TRY IT FOR FREE*" button to create a free account.
 
-### Launching an Instance
-You can create a virtual machine (VM) by launching an instance
-1. On the home page, click on "Services" at the top of the page, then "All services" and "EC2", like in the picture below:
+<img src="images/ubidesk-signup.png" alt="drawing" width="80%"/>
+<br> <br>
 
-<img src="images/ec2.png" alt="drawing" width="90%"/>
-<br>
+You will be directed to the sign up page where you will fill your name, email address, and password.
+<img src="images/ubidesk-signup-page.png" alt="drawing" width="100%"/>
 
-2. This leads you to the EC2 dashboard, where you can have an overview of all your resources. To create a new VM, click on the "Launch instance" button.
-<img src="images/launchinstance.png" alt="drawing" width="80%"/>
-<br>
+You will then receive an email at the address you have entered: clik on the link in that email to verify your address.
+Once your email address is verified, you can then login and access your workspace.
 
-3. Enter a name for your VM, choose the operating system (OS) -*`Linux` for this tutorial*-, the instance type -*choose a free tier instance: by default, `t2.micro` with 1GB RAM and 1vCPU*-, the key pair -*you must have a key pair to enable ssh connection to your instance*-. Choose the `ScientificDays22.pem` key pair created for this tutorial, downloadable [here](resources/ScientificDays22.pem). Everything else can be left at the default config.
-<br>
+### Creating a VM
 
-4. On the creation success page, you can directly connect to your newly created instance: 
-   
-   <img src="images/creationok.png" alt="drawing" width="60%"/>
-   
-   Next, follow the instructions on the "SSH client" tab to access your VM from a terminal: 
-   
-   <img src="images/sshclient.png" alt="drawing" width="60%"/> 
+At your first login, click on "*GET A FREE TRIAL*".
+
+<img src="images/ubi-freetrial.png" alt="drawing" width="100%"/>
+
+Answer all the questions on the following page and click on the *Get a free trial* button below.
+
+<p align="center">
+<img src="images/ubi-freetrial-2.png" alt="drawing" width="70%"/>
+</p>
+
+Fill in a valid phone number to which you have access since a verification code will be send to verify you are not a bot.
+
+On the next page, you will be asked to choose a name for your VM, a password, and the operating system -OS- (**Ubuntu 22.04** in our case).
+
+<p align="center">
+<img src="images/ubi-vm-create.png" alt="drawing" width="80%"/>
+</p>
+
+After filling out all required information, click on *Create desktop* to finish VM's creation.
+
+### Starting and Accessing the VM
+
+1. On the next page, you have your VM settings interface. Click on *POWER ON* to start the just-created VM.
+
+<p align="center">
+<img src="images/ubi-vm-start.png" alt="drawing" width="100%"/>
+</p>
+
+2. The OS installing and VM launch will take a few minutes: wait until it starts and then click on *GET ACCESS*.
+
+<p align="center">
+<img src="images/ubi-vm-access-button.png" alt="drawing" width="90%"/>
+</p>
+
+3. The following pop-up windows will be displays showing the connection instructions.
+<p align="center">
+<img src="images/ubi-nx-instructions.png" alt="drawing" width="80%"/>
+</p>
+
+4. On your laptop, you will need to the *client support* corresponding to your OS (Windows/Ubuntu)
+<p align="center">
+<img src="images/ubi-nx-download-page.png" alt="drawing" width="80%"/>
+</p>
+
+5. After installing the client support, go back to step 2 of the previous pop-up and download the `nxs` connection file for your VM.*
+<p align="center">
+<img src="images/ubi-nxs-file-download.png" alt="drawing" width="80%"/>
+</p>
+
+6. Now open the `NoMAchine` desktop app you previously installed (the NX client support), and click on *Machines* and then *New*.
+<p align="center">
+<img src="images/ubi-nomachine-new.png" alt="drawing" width="100%"/>
+</p>
+
+7. On the following page, at the bottom, click on *Upload a configuration file* and select the `nxs` file you downloaded on **5**.
+<p align="center">
+<img src="images/ubi-nomachine-load-config-file.png" alt="drawing" width="100%"/>
+</p>
+
+The list of all you VMs will be displayed on the *Machines*'s home page like this:
+<p align="center">
+<img src="images/ubi-nomachine-listvms.png" alt="drawing" width="80%"/>
+</p>
+
+8. Double click on your VM in the list and login as **administrator** with the password you filled in during the VM creation.
+<p align="center">
+<img src="images/ubi-nomachine-login.png" alt="drawing" width="80%"/>
+</p>
+
+If you forgot the password, it is recalled in step 3 of the instruction's list in **3**.
+<p align="center">
+<img src="images/ubi-nx-instr-mdp.png" alt="drawing" width="70%"/>
+</p>
+
+Finally, you can enjoy your free cloud VM!
+<p align="center">
+<img src="images/ubi-vm-connected.png" alt="drawing" width="90%"/>
+</p>
 
 # GitHub   
 GitHub is a cloud-based Git (a version control system) repository that helps you store, manage, track and control changes to your projects.
@@ -53,7 +121,7 @@ GitHub is a cloud-based Git (a version control system) repository that helps you
 
 Creating a GitHub account is simple. Just [sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) and follow the steps (enter a valid and accessible email address, a user name, and a password).
 
-# Gitaws
+# GitHub
 1. Create a new repository in your GitHub account (by clicking on `new` like in the following picture):
 ![picture](images/newrepogit.png)
     Fill in the name and the description and click on `Create repository` at the bottom of the page: you will be provided with a list of commands to link your local *code/project* to the newly created repo.
@@ -79,7 +147,7 @@ Creating a GitHub account is simple. Just [sign up](https://github.com/signup?re
    
    Once your keys are generated, print the public one: `cat path/to/your/id_rsa.pub` and copy it to your GitHub account settings.
 
-   You can now clone your repo both in your VM and your laptop. Copy the link as in the picture below, and in a terminal, type:
+   You can now clone your repo both in your VM and your laptop. Copy the link as in the picture below, and in a terminal, type: `git clone git@githubxxxxxx`.
 
    <img src="images/ssh_clone.png" alt="drawing" width="60%"/>
 
