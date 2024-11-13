@@ -1,0 +1,14 @@
+PARSEC Benchmark Suite Version 3.0-beta-20120904
+Threadcount: 1
+5 swaps per temperature step
+start temperature: 100
+netlist filename: 10.nets
+number of temperature steps: 1
+locs created
+locs assigned
+netlist created. 10 elements.
+Final routing is: 132
+
+real	0m0,003s
+user	0m0,003s
+sys	0m0,000s

@@ -1,0 +1,10 @@
+PARSEC Benchmark Suite Version 3.0-beta-20120904
+Loading file "in_300K.fluid"...
+Number of cells: 135424
+Grids steps over x, y, z: 0.00282609 0.0028125 0.00282609
+Number of particles: 305809
+Saving file "out.fluid"...
+
+real	0m1,177s
+user	0m1,038s
+sys	0m0,128s
