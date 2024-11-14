@@ -1,0 +1,8 @@
+******************************************************
+Watching PID 3523 page references for every 5 seconds...
+Est(s)     RSS(MB)    PSS(MB)    Ref(MB)
+5.049      1403.70    1401.95    1403.50
+5.061      1324.29    1322.54     342.65
+5.064      1065.83    1064.08     101.27
+5.082       832.14     830.39     110.05
+ERROR: can't open /proc/3523/smaps: No such file or directory at ../evals/wss.pl line 226.

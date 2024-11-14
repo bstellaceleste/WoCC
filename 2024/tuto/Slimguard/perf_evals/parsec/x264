@@ -1,0 +1,240 @@
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+x264: slimguard_mmap: bad alignment
+
+[31mERROR: xxmalloc_large #119 fails to mmap for size 1048575
+[0m
+real	0m0,113s
+user	0m0,000s
+sys	0m0,100s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+x264: slimguard_mmap: bad alignment
+
+[31mERROR: xxmalloc_large #119 fails to mmap for size 1048575
+[0m
+real	0m0,118s
+user	0m0,000s
+sys	0m0,100s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+x264: slimguard_mmap: bad alignment
+
+[31mERROR: xxmalloc_large #119 fails to mmap for size 1048575
+[0m
+real	0m0,120s
+user	0m0,004s
+sys	0m0,101s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+x264: slimguard_mmap: bad alignment
+
+[31mERROR: xxmalloc_large #119 fails to mmap for size 1048575
+[0m
+real	0m0,114s
+user	0m0,004s
+sys	0m0,094s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+x264: slimguard_mmap: bad alignment
+
+[31mERROR: xxmalloc_large #119 fails to mmap for size 1048575
+[0m
+real	0m0,117s
+user	0m0,007s
+sys	0m0,095s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+/home/stella/Slimguard/evals/parsec-3.0/bin/parsecmgmt: line 1222:  7757 Segmentation fault      (core dumped) /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m
+
+real	1m8,751s
+user	1m6,937s
+sys	0m0,830s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+/home/stella/Slimguard/evals/parsec-3.0/bin/parsecmgmt: line 1222:  7397 Segmentation fault      (core dumped) /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m
+
+real	1m9,347s
+user	1m7,593s
+sys	0m0,753s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+/home/stella/Slimguard/evals/parsec-3.0/bin/parsecmgmt: line 1222:  6459 Segmentation fault      (core dumped) /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m
+
+real	1m8,063s
+user	1m6,270s
+sys	0m0,854s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+/home/stella/Slimguard/evals/parsec-3.0/bin/parsecmgmt: line 1222:  5814 Segmentation fault      (core dumped) /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m
+
+real	1m8,279s
+user	1m6,625s
+sys	0m0,656s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+******************************************************
+[PARSEC] Benchmarks to run:  parsec.x264
+
+[PARSEC] [========== Running benchmark parsec.x264 [1] ==========]
+[PARSEC] Setting up run directory.
+[PARSEC] Unpacking benchmark input 'native'.
+eledream_1920x1080_512.y4m
+[PARSEC] Running 'time /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+yuv4mpeg: 1920x1080@25/1fps, 0:0
+/home/stella/Slimguard/evals/parsec-3.0/bin/parsecmgmt: line 1222:  6117 Segmentation fault      (core dumped) /home/stella/Slimguard/evals/parsec-3.0/pkgs/apps/x264/inst/amd64-linux.gcc/bin/x264 --quiet --qp 20 --partitions b8x8,i4x4 --ref 5 --direct auto --b-pyramid --weightb --mixed-refs --no-fast-pskip --me umh --subme 7 --analyse b8x8,i4x4 --threads 1 -o eledream.264 eledream_1920x1080_512.y4m
+
+real	1m7,908s
+user	1m6,234s
+sys	0m0,751s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
