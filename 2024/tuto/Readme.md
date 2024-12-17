@@ -1,4 +1,4 @@
-# WoCC'24 Tutorial <br> [Simguard Secure Allocator](https://github.com/ssrg-vt/SlimGuard) and [Parsec Benchmark](https://arco.e.ac.upc.edu/wiki/images/8/8a/Seminar_Parsec3.pdf)
+# WoCC'24 Tutorial <br> [Slimguard Secure Allocator](https://github.com/ssrg-vt/SlimGuard) and [Parsec Benchmark](https://arco.e.ac.upc.edu/wiki/images/8/8a/Seminar_Parsec3.pdf)
 
 ##### December 17, 2024 - Polytechnic School of Yaounde, Cameroon
 *Stella Bitchebe*
